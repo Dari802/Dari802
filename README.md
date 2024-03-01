@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dari802
-- 👀 I’m interested in team administration, coding
+- 👀 I’m interested in team administration, coding, Game making
 - 🌱 I’m currently learning Godot 4, C#, Game Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  You can't
